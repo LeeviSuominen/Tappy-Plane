@@ -1,5 +1,5 @@
-# Tappy-Plane
-A knock off copy of Flappy Bird
+# Tappy Plane
+A knock off copy of Flappy Bird 
 
 # Packages used
 Used Unity's new input system
